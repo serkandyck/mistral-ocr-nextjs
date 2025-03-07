@@ -2,6 +2,8 @@
 
 A modern web application for extracting text from images using OCR (Optical Character Recognition) technology. Built with Next.js, Supabase, and Mistral AI.
 
+![OCR Document Scanner Screenshot](/public/images/screenshot.png)
+
 ## Features
 
 - 📷 Image upload and text extraction
