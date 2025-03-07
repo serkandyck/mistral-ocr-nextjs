@@ -1,4 +1,4 @@
-# OCR Document Scanner
+# Mistral OCR Document Scanner
 
 A modern web application for extracting text from images using OCR (Optical Character Recognition) technology. Built with Next.js, Supabase, and Mistral AI.
 
